@@ -10,6 +10,10 @@ https://www.crazygames.com/game/console-idle
 
 I look for front-end work, and I stay open to wider roles.
 
+Other:
+Contributed in this Fan made web page tool for Milky Way Idle game
+https://doh-nuts.github.io/Enhancelator/
+
 As a side interests, i learn about Video games design, and broad in depth topics in tech
 
 <!--
