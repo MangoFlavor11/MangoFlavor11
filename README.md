@@ -8,6 +8,9 @@ https://true-punch.com/
 I also published Console Idle, an HTML5 game on CrazyGames, using pure HTML5, CSS, JS, jQuary
 https://www.crazygames.com/game/console-idle
 
+Another Project, ABYSS CORE, a game made with Phaser
+https://mangoflavor.itch.io/abyss-core
+
 I look for front-end work, and I stay open to wider roles.
 
 Other:
